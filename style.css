@@ -1,9 +1,35 @@
 h1 {
 font-family: Arial;
 color: red;
+text-align: center;
 }
 p {
 font-family: Arial;
-color: black;
-font-size: 14px;
+color: white;
+font-size: 16px;
+text-align: center;
+}
+html {
+  background: url(http://il9.picdn.net/shutterstock/videos/12359456/thumb/1.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+div.img {
+  margin: 5px;
+  border: 1px solid white;
+  float: left;
+  width: 180px;
+}
+div.img: hover {
+  border: 1px solid white;
+}
+div.img img {
+  width: 100%;
+  height: auto;
+}
+div.desc {
+  padding: 15px;
+  text-align: center;
+  color: white;
+  font-family: Verdana;
+  border: 1px solid white;
 }
