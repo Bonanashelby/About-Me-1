@@ -1,16 +1,16 @@
 h1 {
-font-family: Arial;
-color: red;
+font-family: Tahoma;
+color: white;
 text-align: center;
 }
 p {
-font-family: Arial;
+font-family: Tahoma;
 color: white;
-font-size: 16px;
+font-size: 18px;
 text-align: center;
 }
 html {
-  background: url(http://il9.picdn.net/shutterstock/videos/12359456/thumb/1.jpg) no-repeat center fixed;
+  background: url(http://powellong.com/data/wallpapers/234/WDF_2701097.jpg) no-repeat center fixed;
   background-size: cover;
 }
 div.img {
@@ -36,49 +36,41 @@ div.desc {
 ul {
   text-align: center;
   list-style-position: inside;
-  background: #DD1F1F;
-  font-size: 20px;
+
+  font-size: 24px;
   font-family: Arial;
   color: white;
-  padding: 20px;
-  width: 500px;
-  margin: auto;
+
 }
 
 ol {
   text-align: center;
   list-style-position: inside;
-  background: #DD1F1F;
-  font-size: 20px;
+
+  font-size: 24px;
   font-family: Arial;
   color: white;
-  padding: 20px;
-  width: 500px;
-  margin: auto;
+
 
 }
 
 ul li {
-  background:#E3C7C7;
+
   list-style-position: inside;
-  padding: 5px;
-  margin-left: 40px;
-  font-size: 14px;
+
+  font-size: 18px;
   font-family: Arial;
   color: white;
-  width: 500px;
-  margin: auto;
+
 
 }
 ol li {
-  background:#E3C7C7;
+
   list-style-position: inside;
-  padding: 5px;
-  margin-left: 40px;
-  font-size: 14px;
+
+  font-size: 18px;
   font-family: Arial;
   color: white;
-  width: 500px;
-  margin: auto;
+
 
 }
